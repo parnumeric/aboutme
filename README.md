@@ -4,7 +4,7 @@ _Reseach Software Engineer_ for HPC <br>
 
 [Email](mailto:dmitry.nikolaenko@yahoo.com) / [LinkedIn](https://www.linkedin.com/in/dmitrynikolaenko/) / [GitHub](https://github.com/parnumeric/) / [Twitter](https://twitter.com/parnumeric/)
 
-## Work Experience in HPC, numerical simulations and mathematical modelling
+## Experience in HPC, numerical simulations and mathematical modelling
 
 **Research Software Engineer** @ [University of Plymouth](https://www.plymouth.ac.uk/) (United Kingdom) _(Oct 2020 - Present)_ <br>
 EXALAT Project of ExCALIBUR programme.
