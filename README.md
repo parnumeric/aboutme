@@ -1,4 +1,4 @@
-# Dmitry Nikolaenko, M.Sc. in Applied Mathematics and Computer Science
+# Dmitry Nikolaenko
 
 _Reseach Software Engineer_ for HPC <br>
 
