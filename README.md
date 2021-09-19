@@ -2,7 +2,7 @@
 
 _Reseach Software Engineer_ for HPC <br>
 
-[Email](mailto:dmitry.nikolaenko@yahoo.com) / [LinkedIn](https://www.linkedin.com/in/parnumeric/) / [GitHub](https://github.com/parnumeric/) / [Twitter](https://twitter.com/parnumeric/)
+[Email](mailto:dmitry.nikolaenko@yahoo.com) / [LinkedIn](https://www.linkedin.com/in/dmitrynikolaenko/) / [GitHub](https://github.com/parnumeric/) / [Twitter](https://twitter.com/parnumeric/)
 
 ## Work Experience in HPC, numerical simulations and mathematical modelling
 
