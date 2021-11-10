@@ -6,7 +6,7 @@ _Reseach Software Engineer_ for HPC <br>
 
 ## Experience in HPC, numerical simulations and mathematical modelling
 
-**Research Software Engineer** @ [University of Plymouth](https://www.plymouth.ac.uk/) (United Kingdom) _(Oct 2020 - Present)_ <br>
+**Research Software Engineer** @ [University of Plymouth](https://www.plymouth.ac.uk/) (United Kingdom) _(Oct 2020 - Sep 2021)_ <br>
 EXALAT Project of ExCALIBUR programme.
 - Porting of the Particle Physics simulation suite _openQCD_ to GPU architecture
 - Adapting data structures and their memory layout using CUDA Unified Memory to run the code on multiple GPU devices with CUDA-aware MPI communication of halo regions enabled thanks to NVIDIA GPUDirect
