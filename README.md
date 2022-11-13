@@ -6,6 +6,9 @@ _Reseach Software Engineer_ for HPC <br>
 
 ## Experience in HPC, numerical simulations and mathematical modelling
 
+**Research Software Engineer** @ [Advanced Research Computing at University of Durham](https://www.dur.ac.uk/arc/) (United Kingdom) _(Dec 2021 - present)_ <br>
+- Supporting research... (to be continued)
+
 **Research Software Engineer** @ [University of Plymouth](https://www.plymouth.ac.uk/) (United Kingdom) _(Oct 2020 - Sep 2021)_ <br>
 EXALAT Project of ExCALIBUR programme.
 - Porting of the Particle Physics simulation suite _openQCD_ to GPU architecture
